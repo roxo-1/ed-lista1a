@@ -29,3 +29,8 @@ A classe String do Java possui um método charAt(int index) que retorna um char 
 A classe String do Java possui um método toCharArray() que retorna o conteúdo da string como um array de chars.
 8. Dois círculos se sobrepõem (colidem) se a soma dos seus raios é maior que ou igual a distância entre seus centros. A distância entre dois pontos pode ser calculada usando o teorema de Pitágoras (c = √�! + �!). Escreva um método estático haColisaoEntreCirculos() que recebe seis parâmetros: a posição p1(x,y) e o raio r1 do primeiro círculo e a posição p2(x,y) e o raio r2 do segundo círculo. Comos parâmetros informados, a função deve retornar true caso os círculos estejam
 sobrepostos ou false, caso contrário. Inclua um código na main() que exemplifica o uso do método haColisaoEntreCirculos().
+
+## Referências
+https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html
+https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html
+https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html
