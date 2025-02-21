@@ -17,5 +17,6 @@ public class Ex1{
         num2 = aux;
         System.out.println("Número 1 depois da troca: " + num1);
         System.out.println("Número 2 depois da troca: " + num2);
+        scanner.close();
     }
 }
