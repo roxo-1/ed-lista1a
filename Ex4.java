@@ -1,3 +1,5 @@
+//Carolina Lee
+//10440304
 import java.util.Scanner;
 
 public class Ex4 {
