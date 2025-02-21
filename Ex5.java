@@ -20,5 +20,6 @@ public class Ex5{
 
         System.out.println("Mínimo: " + min(num1, num2));
         System.out.println("Máximo: " + max(num1, num2));
+        scanner.close();
     }
 }
