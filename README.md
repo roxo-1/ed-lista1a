@@ -1,4 +1,4 @@
-# Lista de Exercícios 1 – Programação Java (atividade em dupla ou trio)
+# Lista de Exercícios 1 – Programação Java
 ## Objetivos
 - Treinar os fundamentos da linguagem Java (tipos primitivos, operadores, estruturas
 de decisão, estruturas de repetição, arrays, métodos).
